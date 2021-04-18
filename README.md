@@ -19,7 +19,7 @@ npm install vue-cli-laravel-pagination
 In your main.js:
 
 ```javascript
-import VueLaravelPagination from '../plugin/index'
+import VueLaravelPagination from "vue-cli-laravel-pagination";
 
 
 Vue.use(VueLaravelPagination)
