@@ -1,0 +1,35 @@
+{
+  "name": "vue-cli-laravel-pagination",
+  "version": "1.0.1",
+  "description": "vue-cli-laravel-pagination is a plugin for implementing laravel pagination in on a vue cli based project. it's light weight, easy to use, well documented and has best support.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shudhuiami/vue-cli-laravel-pagination.git"
+  },
+  "keywords": [
+    "vue-cli-laravel-pagination",
+    "laravel",
+    "pagination",
+    "pagination",
+    "laravel",
+    "vue-cli",
+    "vue",
+    "cli",
+    "vuejs",
+    "vue",
+    "js",
+    "laravel-vue\u001b[D\u001b[D\u001b[",
+    "\u001b[C\u001b[C\u001b[C",
+    "vue"
+  ],
+  "author": "shudhuiami",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shudhuiami/vue-cli-laravel-pagination/issues"
+  },
+  "homepage": "https://github.com/shudhuiami/vue-cli-laravel-pagination#readme"
+}
