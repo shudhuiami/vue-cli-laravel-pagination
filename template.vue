@@ -3,15 +3,13 @@
        :class="{'vue-pagination-left': align == 'left', 'vue-pagination-right': align == 'right', 'vue-pagination-center': align == 'center'}">
     <ul class="vue-pagination">
       <li class="vue-page-item">
-        <a @click="prevPage"
-           :disabled="data.prev_page_url == null" class="vue-page-link" v-html="prev_btn"></a>
+        <a @click="prevPage" :disabled="data.prev_page_url == null" class="vue-page-link" v-html="prev_btn"></a>
       </li>
       <li v-for="(page, index) in buttons" class="vue-page-item" :class="{'_active_': page.title == current_page}">
         <a @click="pageChange(page.options)" class="vue-page-link" href="#">{{ page.title }}</a>
       </li>
       <li class="vue-page-item">
-        <a @click="nextPage()"
-           :disabled="data.next_page_url == null" class="vue-page-link" v-html="next_btn"></a>
+        <a @click="nextPage()" :disabled="data.next_page_url == null" class="vue-page-link" v-html="next_btn"></a>
       </li>
     </ul>
   </div>
