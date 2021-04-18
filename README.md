@@ -1,7 +1,3 @@
-[![npm](https://img.shields.io/npm/v/laravel-vue-pagination.svg)](https://www.npmjs.com/package/vue-cli-laravel-pagination) 
-
-[![Downloads](https://img.shields.io/npm/dt/laravel-vue-pagination.svg)](https://www.npmjs.com/package/vue-cli-laravel-pagination)
-
 
 # Vue Cli Laravel Pagination 
 vue-cli-laravel-pagination is a plugin for implementing laravel pagination in on a vue cli based project. it's light weight, easy to use, well documented and has best support.
